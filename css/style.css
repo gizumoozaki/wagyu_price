@@ -57,3 +57,8 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+/* CSSを追加してカードの角の丸みをなくします */
+.card {
+  border-radius: 0;
+}
